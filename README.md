@@ -22,3 +22,8 @@ Instead of sticking with standard Power BI templates, I designed a custom user i
 * **Employment Status Breakdown:** Splits the 51K customer base into three segments: Consumer (51.7%), Corporate (30%), and Self-Employed (18%).
 * **High-Value Customers:** A table tracking specific customer IDs, their locations, and their profit margins to see who the top buyers are.
 * **Yearly Growth:** A bar chart showing total customers served each year from 2020 to 2023 to monitor growth.
+
+## Data Cleaning Challenges:
+
+### 1. Handeling Missing Values:
+* This dataset had an ususal amounts of missing data
